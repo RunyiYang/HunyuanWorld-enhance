@@ -1,3 +1,22 @@
 # Ignore Python bytecode files
 __pycache__/
 *.pyc
+*.pt
+*.pth
+*.pkl
+*.pth.tar
+*.pth.tar.gz
+*.pth.tar.bz2
+*.pth.tar.xz
+*.pth.tar.lzma
+*.pth.tar.lz
+*.onnx
+*.onnx.gz
+*.onnx.bz2
+*.onnx.xz
+*.onnx.lzma
+*.onnx.lz
+*.onnx.tar
+*.onnx.tar.gz
+*.onnx.tar.bz2
+*.onnx.tar.xz
